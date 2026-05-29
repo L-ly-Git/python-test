@@ -1,0 +1,8 @@
+# 核心数值计算，用于矩阵运算与角度回绕处理
+numpy
+
+# 用于生成报告中的状态响应、控制输入及能量/相平面曲线图
+matplotlib
+
+# 核心仿真引擎：包含 AcrobotPlant, LQR 求解器及 Simulator 框架
+drake
